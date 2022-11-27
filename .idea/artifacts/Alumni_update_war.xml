@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Alumni update:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Alumni update</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Alumniupdate-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Alumni update:war exploded" />
+    </root>
+  </artifact>
+</component>
